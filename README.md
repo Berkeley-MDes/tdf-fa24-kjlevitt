@@ -5,21 +5,25 @@ For this week I had a bit of a difficult time in deciding what I wanted to make.
 
 The first step in my process was to create a rough sketch of what I wanted it to look like. I wanted the bear to be sitting down and holding the bowl between his arms. An image of my initial sketch can be seen below. 
 
-<img width="200"  src="assets/exampleimg.png">
+<img width="200"  src="assets/IMG_4742.jpg">
 
 ---
 
 With an initial rough layout of what I wanted my design to look like I next moved into creating a 3d model of my design. Since I knew that the design of the bear would be a bit more freeforme I thought that belnder would be the most ideal way for me to be able to model it. The bear and bowl are made up of majority spheres that have been resized and manipulated in order to create the figure. The model that I created for the bear ended up looking more like a teddy bear than a cartoon one that I had originally envisoned in my head. 
 
+<img width="400"  src="assets/Screenshot 2024-09-04 015755.png">
+
 ---
 
 Once I had gotten my model to a point where I was happy with it I exported it from Blender and put it into PrusaSlicer. Here I scaled up my model and added in the supports. I was a bit suprised a how small I needed to make my model in order for it to print in a reasonble amount of time, being that a small model would take about 5 hours.
+
+<img width="400"  src="assets/Screenshot 2024-09-04 015837.png">
 
 ---
 
 After this, I proceeded to print out my model, wait for it to finish, and then remove all of the supports and clean it up. Pictures of this process and my finished product can be seen below.
 
----
+<img width="300"  src="assets/IMG_4738.jpg"> <img width="300"  src="assets/IMG_4739.jpg"> <img width="300"  src="assets/IMG_4741.jpg">
 
 With the time that I spent on this model I am conent with how it turned out. I think there are multiple ways in which I could improve this and make it overall better. For the design of it I wish I hd made it look a bit more like a real bear than a teddy bear plus my original plan also included having the Cal logo imprinted in the back of the bear. Now that I know that this model works and prints well I would also like to scale it up and make a larger version. Being that this was meant to have a bowl as part of it, which I had envisioned being able to hold my dice, I would like to take the time to print out a larger version that would work better for this application.
 
