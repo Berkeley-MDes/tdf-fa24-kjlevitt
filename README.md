@@ -7,23 +7,23 @@ The first step in my process was to create a rough sketch of what I wanted it to
 
 <img width="200"  src="assets/IMG_4742.jpg">
 
----
+
 
 With an initial rough layout of what I wanted my design to look like I next moved into creating a 3d model of my design. Since I knew that the design of the bear would be a bit more freeforme I thought that belnder would be the most ideal way for me to be able to model it. The bear and bowl are made up of majority spheres that have been resized and manipulated in order to create the figure. The model that I created for the bear ended up looking more like a teddy bear than a cartoon one that I had originally envisoned in my head. 
 
 <img width="400"  src="assets/Screenshot 2024-09-04 015755.png">
 
----
+
 
 Once I had gotten my model to a point where I was happy with it I exported it from Blender and put it into PrusaSlicer. Here I scaled up my model and added in the supports. I was a bit suprised a how small I needed to make my model in order for it to print in a reasonble amount of time, being that a small model would take about 5 hours.
 
 <img width="400"  src="assets/Screenshot 2024-09-04 015837.png">
 
----
+
 
 After this, I proceeded to print out my model, wait for it to finish, and then remove all of the supports and clean it up. When the small version of my design had finished I ended up scaling it up to print larger so that I would actually be able to have it hold things. Pictures of this process and my finished product can be seen below.
-
-<img width="300"  src="assets/IMG_4738.jpg"> <img width="300"  src="assets/IMG_4739.jpg"> <img width="300"  src="assets/IMG_4741.jpg">
+ 
+<img width="300"  src="assets/IMG_4738.jpg"> <img width="300"  src="assets/IMG_4739.jpg"> <img width="300"  src="assets/IMG_4741.jpg"> <img width="300"  src="assets/IMG_4744.jpg">
 
 
 
