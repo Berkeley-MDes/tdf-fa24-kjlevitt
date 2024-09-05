@@ -21,11 +21,13 @@ Once I had gotten my model to a point where I was happy with it I exported it fr
 
 ---
 
-After this, I proceeded to print out my model, wait for it to finish, and then remove all of the supports and clean it up. Pictures of this process and my finished product can be seen below.
+After this, I proceeded to print out my model, wait for it to finish, and then remove all of the supports and clean it up. When the small version of my design had finished I ended up scaling it up to print larger so that I would actually be able to have it hold things. Pictures of this process and my finished product can be seen below.
 
 <img width="300"  src="assets/IMG_4738.jpg"> <img width="300"  src="assets/IMG_4739.jpg"> <img width="300"  src="assets/IMG_4741.jpg">
 
-With the time that I spent on this model I am conent with how it turned out. I think there are multiple ways in which I could improve this and make it overall better. For the design of it I wish I hd made it look a bit more like a real bear than a teddy bear plus my original plan also included having the Cal logo imprinted in the back of the bear. Now that I know that this model works and prints well I would also like to scale it up and make a larger version. Being that this was meant to have a bowl as part of it, which I had envisioned being able to hold my dice, I would like to take the time to print out a larger version that would work better for this application.
+
+
+With the time that I spent on this model I am content with how it turned out. I think there are multiple ways in which I could improve this and make it overall better. For the design of it I wish I had made it look a bit more like a real bear than a teddy bear plus my original plan also included having the Cal logo imprinted in the back of the bear.
 
 ## Quick Links, compiled here for your convenience: ##
 
