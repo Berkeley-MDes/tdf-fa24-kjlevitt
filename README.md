@@ -1,5 +1,24 @@
+# Week 2: Report 1 #
+## Week of 09/09/2024
+
+I started off with making a chart of what I thought to be the different portions of the example Grasshopper file and how this was made into the different parts of the model.
+
+<img width="500"  src="assets/Grasshopper_chart.png">
+
+From looking at the provided model I was still confused on how many of the different operations in Grasshopper would function as I have never used this software before. I ended up finding a tutorial online of someone walking through step by step on how to create a parametric box using Grasshopper. I found working through this tutorial to be very helpful in starting to get down some of the basic commands.
+
+<img width="500"  src="assets/ParmBox_Rhino.png"> <img width="500"  src="assets/ParmBox_grasshopper.png">
+
+With my baseline understanding of Grasshopper I decided that I wanted to try and make something of my own in order to see if I could apply what I had learned properly. I chose that the gearbox that I had previously made (and modeled in Fusion360 before) would be a good thing for me to try and get the overall shape down of. It took some trial and error and working through some things but I was able to get the overall shape correct. Trying to get the hole cut-outs in the bottom plate is a work in progress which I have not yet figured out how to do. 
+
+<img width="300"  src="assets/IMG_4759.jpg"> <img width="600"  src="assets/GearBox_Rhino.png">
+
+<img width="500"  src="assets/GearBox_Grasshopper1.png"> <img width="500"  src="assets/GearBox_Grasshopper2.png"> <img width="500"  src="assets/GearBox_Grasshopper3.png">
+
+---
+
 # Week 1: Report 1 #
-## Week of 09/05/2024
+## Week of 09/02/2024
 
 For this week I had a bit of a difficult time in deciding what I wanted to make. Whle trying to come up with something that I could design that would be useful for me I observed many of my classmates making Cal themed objects for their design. I decided that I wanted to try and make a functional yet fun object while being tangentially related to Cal. Thus, I decided to design a cartoon bear holding a bowl. 
 
