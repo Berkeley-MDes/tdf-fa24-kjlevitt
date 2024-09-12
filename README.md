@@ -1,5 +1,5 @@
-# Week 2: Report 1 #
-## Week of 09/05/2024-09/12/2024
+# Week 2 09/05/2024-09/12/2024
+## Week 2: Report 1 #
 
 I started off with making a chart of what I thought to be the different portions of the example Grasshopper file and how this was made into the different parts of the model.
 
@@ -17,7 +17,7 @@ With my baseline understanding of Grasshopper I decided that I wanted to try and
 
 ---
 
-# Week 2: Report 2 #
+## Week 2: Report 2 #
 
 I decided to continue editing the model of the gearbox that I had started eariler in the week. In order to complete the overall body of it I needed to add holes in both the bottom plate and the face of the rectangular portion. I played around with the solid difference tool but I cannot get the holes to go all the way through the part.
 
@@ -25,8 +25,8 @@ I decided to continue editing the model of the gearbox that I had started earile
 
 ---
 
-# Week 1: Report 1 #
-## Week of 08/29/2024-09/05/2024
+# Week 1 08/29/2024-09/05/2024
+## Week 1: Report 1 #
 
 For this week I had a bit of a difficult time in deciding what I wanted to make. Whle trying to come up with something that I could design that would be useful for me I observed many of my classmates making Cal themed objects for their design. I decided that I wanted to try and make a functional yet fun object while being tangentially related to Cal. Thus, I decided to design a cartoon bear holding a bowl. 
 
