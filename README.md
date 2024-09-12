@@ -1,5 +1,5 @@
 # Week 2: Report 1 #
-## Week of 09/09/2024
+## Week of 09/05/2024-09/12/2024
 
 I started off with making a chart of what I thought to be the different portions of the example Grasshopper file and how this was made into the different parts of the model.
 
@@ -26,7 +26,7 @@ I decided to continue editing the model of the gearbox that I had started earile
 ---
 
 # Week 1: Report 1 #
-## Week of 09/02/2024
+## Week of 08/29/2024-09/05/2024
 
 For this week I had a bit of a difficult time in deciding what I wanted to make. Whle trying to come up with something that I could design that would be useful for me I observed many of my classmates making Cal themed objects for their design. I decided that I wanted to try and make a functional yet fun object while being tangentially related to Cal. Thus, I decided to design a cartoon bear holding a bowl. 
 
