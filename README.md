@@ -21,6 +21,7 @@ With my baseline understanding of Grasshopper I decided that I wanted to try and
 
 I decided to continue editing the model of the gearbox that I had started eariler in the week. In order to complete the overall body of it I needed to add holes in both the bottom plate and the face of the rectangular portion. I played around with the solid difference tool but I cannot get the holes to go all the way through the part.
 
+<img width="600"  src="assets/GearBox_Rhino2.png">
 
 ---
 
