@@ -11,6 +11,8 @@ My design was challenging to create as it contained three different parts fittin
 
 overall I am pleased with the design that I created but if I were to go back and edit it I would make it slightly less wide in order to support the phone better and adjust the angles of the arms slightly.
 
+Here is the link to the video that I made going more in-depth into the design of my phone stand: https://youtu.be/kYWouX_ynT8
+
 # Week 2 09/05/2024-09/12/2024
 ## Week 2: Report 1 #
 
