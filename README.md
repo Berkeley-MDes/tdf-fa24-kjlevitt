@@ -3,7 +3,11 @@
 
 This week I focused on creating my phone stand using Grasshopper. The idea behind my design was that when I use my phone for video calls with my friends I tend to run into the issue of my phone battery dying. When this happens it means that I must hold up my phone for the duration of the rest of the call. This tends to get quite annoying so I created this stand so that it can hold up my phone while also being able to be plugged into the charger. 
 
+<img width="300"  src="assets/PhoneStandGrasshopper.png"> <img width="300"  src="assets/PhoneStandRhino.png"> <img width="200"  src="assets/PhoneStand.jpg">
+
 My design was challenging to create as it contained three different parts fitting into one another, unfolding at the appropriate angles and containg properly sizeed clearance holes for fasteners. In addition to just the composition of my design I also wanted it to be compact, foldable, and as thin as i could make it. 
+
+<img width="300"  src="assets/Phone Stand Final.jpg"> <img width="300"  src="assets/PhoneStandInUse.jpg"> <img width="300"  src="assets/Phone Stand Pieces.jpg">
 
 overall I am pleased with the design that I created but if I were to go back and edit it I would make it slightly less wide in order to support the phone better and adjust the angles of the arms slightly.
 
