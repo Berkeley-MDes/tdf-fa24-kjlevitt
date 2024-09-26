@@ -1,3 +1,12 @@
+# Week 4 09/19/2024-09/26/2024
+## Week 4: Report 1
+
+My main focus at the beginning of the week was in finishing the report for project 1. I am overall satisfied with the product that I was able to make for this project and have even actaully started using it to call my friends. I was surprised by how well recieved my phone stand was by my peers and might go back and edit this design to improve it given their provided feedback.
+
+As we move into our next project we were tasked with creating an ecosystem map. In mine I chose to map out some of the most common ways that I interact with devices in a typical day. My diagram is separated into three main categories: my watch, cell phone, and laptop. Once I listed out all of the main ways that I use these devices I grouped them into four distinct categories of tasks: fitness, productivity, entertainment, and communication. As can be seen in my diagram, there is quite a lot of overlap between what I tend to do on my phone and computer, with most of these living in the categories of entertainment and communication. 
+
+When looking at my watch and phone there is not nearly as much overlap. The ones that do exist are all in the category of fitness (with my alarm and time being an outlier). I would not necessarily consider my watch to be a "smart watch" as it is designed primarily for activity tracking. It has functions such as being able to tell you the weather and if I get a notification on my phone but I have these features disabled as they don't seem very effective as you need to continually synch your phone with the watch in order to have them function. Thus, outside of regular telling the time I utilize it pretty much only for tracking my runs and activity. This also expalins why there are no real overlaps between my laptop and watch that I could think of that I do on a regular basis.
+
 # Week 3 09/12/2024-09/19/2024
 ## Week 3: Report 1
 
