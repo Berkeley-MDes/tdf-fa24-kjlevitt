@@ -7,6 +7,8 @@ As we move into our next project we were tasked with creating an ecosystem map. 
 
 When looking at my watch and phone there is not nearly as much overlap. The ones that do exist are all in the category of fitness (with my alarm and time being an outlier). I would not necessarily consider my watch to be a "smart watch" as it is designed primarily for activity tracking. It has functions such as being able to tell you the weather and if I get a notification on my phone but I have these features disabled as they don't seem very effective as you need to continually synch your phone with the watch in order to have them function. Thus, outside of regular telling the time I utilize it pretty much only for tracking my runs and activity. This also expalins why there are no real overlaps between my laptop and watch that I could think of that I do on a regular basis.
 
+<img width="600"  src="assets/Ecosystem Mapping.drawio.png">
+
 # Week 3 09/12/2024-09/19/2024
 ## Week 3: Report 1
 
