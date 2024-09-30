@@ -6,13 +6,22 @@ Over the weekend I worked on better understanding the Photon. The first step tha
 Once I had it connected I proceeded through the provided into codes. The first two provided codes were to print Hello World in the serial monitor, first as one line and then printing each individual letter. 
 
 <img width="600"  src="assets/HelloWorld_print.jpeg">
-<video src="assets/BtnHelloLetter_vid.MOV">
+
+https://github.com/user-attachments/assets/ec2d6ab2-feb0-4c5e-88bc-0137bc9e7265
 
 After completing this I worked on wiring the breadboad to include a button. This button when pressed would cause "button pressed" to be printed in the serial monitor and vary the speed at which "Hello World" was being printed in the monitor. Each button press corresponded to the system choosing a random speed at which this would be printed. 
 
+<img width="600"  src="assets/breadboard_pic.jpeg">
+
+https://github.com/user-attachments/assets/eb2836c5-e020-4b1c-9784-9a9fb397e160
+
 To keep adding onto this, the next two codes allowed for first one and then two leds to be connected. These would then flash at the same randomized rate that the letters were being printed at. 
 
+https://github.com/user-attachments/assets/1e26b466-a87f-4608-9a75-edebbcd6c47a
+
 After I had gotten through all of these provided codes I decided to play around and edit them. I took out the randomization in the speed with each button press. I then changed it so that everything was waiting for the button to be pressed to commence. Once the button is pressed both "botton pressed" and "Hello World" will print once in the serial monitor. After this occurs the green led will flash and then the red led. The system then waits for the button to be pressed again before running through the functions. 
+
+https://github.com/user-attachments/assets/b42dc26d-ff08-4e06-9d0c-018f9203a566
 
 # Week 4 09/19/2024-09/26/2024
 ## Week 4: Report 1
