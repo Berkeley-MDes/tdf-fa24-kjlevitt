@@ -1,3 +1,16 @@
+# Week 5 09/26/2024-10/03/2024
+## Week 5: Report 1
+
+Over the weekend I worked on better understanding the Photon. The first step that I went through was getting it connected to my home wifi which I found to be quite simple to do. 
+
+Once I had it connected I proceeded through the provided into codes. The first two provided codes were to print Hello World in the serial monitor, first as one line and then printing each individual letter. 
+
+After completing this I worked on wiring the breadboad to include a button. This button when pressed would cause "button pressed" to be printed in the serial monitor and vary the speed at which "Hello World" was being printed in the monitor. Each button press corresponded to the system choosing a random speed at which this would be printed. 
+
+To keep adding onto this, the next two codes allowed for first one and then two leds to be connected. These would then flash at the same randomized rate that the letters were being printed at. 
+
+After I had gotten through all of these provided codes I decided to play around and edit them. I took out the randomization in the speed with each button press. I then changed it so that everything was waiting for the button to be pressed to commence. Once the button is pressed both "botton pressed" and "Hello World" will print once in the serial monitor. After this occurs the green led will flash and then the red led. The system then waits for the button to be pressed again before running through the functions. 
+
 # Week 4 09/19/2024-09/26/2024
 ## Week 4: Report 1
 
