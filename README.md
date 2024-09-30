@@ -5,6 +5,9 @@ Over the weekend I worked on better understanding the Photon. The first step tha
 
 Once I had it connected I proceeded through the provided into codes. The first two provided codes were to print Hello World in the serial monitor, first as one line and then printing each individual letter. 
 
+<img width="600"  src="assets/HelloWorld_print.jpeg">
+<video src="assets/BtnHelloLetter_vid.MOV">
+
 After completing this I worked on wiring the breadboad to include a button. This button when pressed would cause "button pressed" to be printed in the serial monitor and vary the speed at which "Hello World" was being printed in the monitor. Each button press corresponded to the system choosing a random speed at which this would be printed. 
 
 To keep adding onto this, the next two codes allowed for first one and then two leds to be connected. These would then flash at the same randomized rate that the letters were being printed at. 
