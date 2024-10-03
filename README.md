@@ -2,11 +2,24 @@
 ## Week 5: Report 2
 This week I worked on going through multiple of the tutorials in order to familiarize myself with many of the components that were given to us. The first tutorial that I worked through was in getting a led to flash at a varying frequency that increases when a button is pressed. The led starts off flashing very slowly and every time the button is pressed, this gets faster until it meets a threshold in which it then loops back to flashing at its slow rate.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kGs-4r-hwNw/0.jpg)](https://youtube.com/shorts/kGs-4r-hwNw?feature=share)
+
+https://youtube.com/shorts/kGs-4r-hwNw?feature=share
+
 The next tutorial was in using a pressure sensor and RGB led. The sensor uses the pressure that is applied to it to create an electrical signal. This signal is then used by the led to determine the colors that it will produce. Varying the pressure then changes the colors with the led turning white when the highest pressure it can sense it provided. 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E6OdYqmTeAg/0.jpg)](https://youtube.com/shorts/E6OdYqmTeAg?feature=share)
+
+https://youtube.com/shorts/E6OdYqmTeAg?feature=share
 
 The last tutorial that I did was in using the potentiometer to adjust the angle that the servo motor rotates. I decided to use the analog potentiometer in this tutorial instead of the AdaFruit one and edited the provided code for this. The potentiometer allows for the rotations provided in it to correspond to the angle that the servo rotates between 0 and 180 degrees.
 
-I enjoyed working with the electronics and refreshing myself on how these components 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bO__WhVxM3w/0.jpg)](https://youtube.com/shorts/bO__WhVxM3w?feature=share)
+
+https://youtube.com/shorts/bO__WhVxM3w?feature=share
+
+I enjoyed working with the electronics and refreshing myself on how many of these components function together. I had wanted to have the oled board function but could not figure out how to get the proper libraries in order to making it function. I intend to continue working on this so that I can figure out how to use this. 
+
 ## Week 5: Report 1
 
 Over the weekend I worked on better understanding the Photon. The first step that I went through was getting it connected to my home wifi which I found to be quite simple to do. 
