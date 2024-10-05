@@ -1,6 +1,14 @@
 # Week 6 10/03/2024-10/10/2024
 ## Week 6: Report 1
-In completing the homework for this weekend I needed to solder the SparkFun shield. This turned out to be a bit more complicated due to the fact that I initially soldered the connectors to the board upside down. I only realized this once I had finished soldering all of the pins and tried to attach it to the photon and it did not fit. I have never desoldered before but this was now necessary for me to figure out how to. Thankfully Gary was able to asist me in what would be the best way to remove the connectors. Unfortunatly this involved needing to basically break it apart in order to fix it. The first thing that I needed to do was carefully pry the plastic cover off of the pins. Once this was off I used the soldering iron to heat up the solder that I had placed on each of the pins and once it was liquid I used tweezers to pull the pins out of each of the holes. With the pins removed most of the holes were still filled with solder. I then used the soldering iron again to heat up the remaining solder and used the solder sucker to get it out. After the solder was removed from all of the holes, Gary gave me new pins to resolder to the board the correct way. 
+In completing the homework for this weekend I needed to solder the SparkFun shield. This turned out to be a bit more complicated due to the fact that I initially soldered the connectors to the board upside down. 
+
+I only realized this once I had finished soldering all of the pins and tried to attach it to the photon and it did not fit. I have never desoldered before but it was now necessary for me to figure out how to. Thankfully Gary was able to asist me in what would be the best way to remove the connectors. Unfortunatly, this involved needing to basically break it apart in order to fix it. The first thing that I needed to do was carefully pry the plastic cover off of the pins. Once this was off I used the soldering iron to heat up the solder that I had placed on each of the pins and once it was liquid I used tweezers to pull the pins out of each of the holes. With the pins removed most of the holes were still filled with solder. I then used the soldering iron again to heat up the remaining solder and used the solder sucker to get it out. 
+
+After the solder was removed from all of the holes, Gary gave me new pins to resolder to the board the correct way. 
+
+Now, with my board assembled correctly, I worked on attaching the sensors. The first one that I did was the MPU-6050. For this, I had the gyroscope enabled. This allowed for the position values to be printed in the serial monitor. It can be seen that as I rotate the device the numbers of the position change accordingly in the x, y, and z directions.
+
+After this, I used the APDS 9960 board with the proximity sensor enabled. Here it is set up to detect the disance that an object is away from the sensor. As my hand moved closer to the board it can be seen that the proximity value increases. 
 
 # Week 5 09/26/2024-10/03/2024
 ## Week 5: Report 2
