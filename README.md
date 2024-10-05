@@ -12,7 +12,7 @@ The next tutorial was in using a pressure sensor and RGB led. The sensor uses th
 
 https://youtube.com/shorts/E6OdYqmTeAg?feature=share
 
-The last tutorial that I did was in using the potentiometer to adjust the angle that the servo motor rotates. I decided to use the analog potentiometer in this tutorial instead of the AdaFruit one and edited the provided code for this. The potentiometer allows for the rotations provided in it to correspond to the angle that the servo rotates between 0 and 180 degrees.
+The last tutorial that I did was in using the potentiometer to adjust the angle that the servo motor rotates. I decided to use the potentiometer in this tutorial instead of the accelerometer and edited the provided code for this. The potentiometer allows for the rotations provided in it to correspond to the angle that the servo rotates between 0 and 180 degrees.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bO__WhVxM3w/0.jpg)](https://youtube.com/shorts/bO__WhVxM3w?feature=share)
 
