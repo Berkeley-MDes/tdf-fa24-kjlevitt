@@ -14,6 +14,8 @@ After the solder was removed from all of the holes, Gary gave me new pins to res
 
 Now, with my board assembled correctly, I worked on attaching the sensors. The first one that I did was the MPU-6050. For this, I had the gyroscope enabled. This allowed for the position values to be printed in the serial monitor. It can be seen that as I rotate the device the numbers of the position change accordingly in the x, y, and z directions.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fSxvDcgkZ8c/0.jpg)](https://youtube.com/shorts/fSxvDcgkZ8c?feature=share)
+https://youtube.com/shorts/fSxvDcgkZ8c?feature=share
 
 After this, I used the APDS 9960 board with the proximity sensor enabled. Here it is set up to detect the disance that an object is away from the sensor. As my hand moved closer to the board it can be seen that the proximity value increases. 
 
