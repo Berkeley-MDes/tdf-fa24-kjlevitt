@@ -2,6 +2,8 @@
 ## Week 6: Report 2
 This week has consisted of very much frustration for me reguarding the photon. On Saturday afternoon I was working on testing out the different sensors with the photon in Jacobs. Once I had finished I decided to go home and continue ,y work. When I plugged in my photon at home it began to continually blink blue, not able to access the wifi. Since this time I have spent many hours going in circles trying to troubleshoot and get my photon to connect to the wifi. This blinking light has become a source of frustration for me and I have not been able to connect or flash anythng to the photon since Saturday. I have tried resetting, restoreing, and running many different commmands in the CLI but nothing seems to work :(
 
+https://github.com/user-attachments/assets/9f45accc-5c95-4933-b94d-4a51349b09c0
+
 ## Week 6: Report 1
 In completing the homework for this weekend I needed to solder the SparkFun shield. This turned out to be a bit more complicated due to the fact that I initially soldered the connectors to the board upside down. 
 
