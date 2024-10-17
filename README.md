@@ -15,6 +15,10 @@ https://youtube.com/shorts/AW2mKCWXW2g?feature=share
 
 Once I had this code working I tried to adjust it for the servo instead. I thought that this would be simple, as I would just have to change the led to making the servo write to a specific angle. When I did this, nothing occured. I tested to make sure that both the proximity sensor and the servo were functioning independently but do not work together. I tried troubleshooting the code in multiple different ways including having the proximity sensor using the particle to power it and the servo being powered off of the external battery and making the baud rate slower. Neither of these worked so I tried using the ultrasonic sensor instead. I used the same framework code but replaced the proximity sensor with the ultrasonic one and it worked on the first try. 
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tiwMlrAHarw/0.jpg)](https://youtube.com/shorts/tiwMlrAHarw?feature=share)
+
+https://youtube.com/shorts/tiwMlrAHarw?feature=share
+
 The last thing that I worked on for this week was in improving the design of the beak. I made the hinges on which the screws move the top and bottom of the beak integrate into the design better. On the bottom portion of the beak I added in a bunch of small holes that will allow for it to be sewn into the stuffed penguine. For the top beak, I added in a part that sticks out with a hole in it so that it can be attached to the servo in order to open. 
 
 # Week 6 10/03/2024-10/10/2024
