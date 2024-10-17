@@ -21,7 +21,7 @@ https://youtube.com/shorts/tiwMlrAHarw?feature=share
 
 The last thing that I worked on for this week was in improving the design of the beak. I made the hinges on which the screws move the top and bottom of the beak integrate into the design better. On the bottom portion of the beak I added in a bunch of small holes that will allow for it to be sewn into the stuffed penguine. For the top beak, I added in a part that sticks out with a hole in it so that it can be attached to the servo in order to open. 
 
-<img width="400"  src="assets/Beak_Assembly.jpeg"> <img width="400"  src="assets/Beak_bottom.jpeg"> <img width="400"  src="assets/Beak_top.jpeg">
+<img width="300"  src="assets/Beak_Assembly.jpeg"> <img width="300"  src="assets/Beak_bottom.jpeg"> <img width="300"  src="assets/Beak_top.jpeg">
 
 # Week 6 10/03/2024-10/10/2024
 ## Week 6: Report 2
