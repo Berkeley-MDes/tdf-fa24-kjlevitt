@@ -3,7 +3,8 @@
 This week was lots of focus on working on project 2. We first worked together in order to come up with a idea for the project that we wanted to work on that fulfilled the requirements. Our idea consisted of two main components. a button that can be pressed remotly in order to trigger an led light to turn on and a model of a beak which would open when a person is close enough to the proximity sensor. 
 
 Once we had our initial idea of what we wanted to do, I started with first working on creating a model for the beak. During class, we had created an initial cardboard model of what we thought a possible design would be. From this, I worked on creating a 3d model of this that would have screws in order to act as the hinges for the mouth to open and close. 
-<img width="500"  src="assets/soldering1.jpeg">
+
+<img width="400"  src="assets/Beak1.jpeg"> <img width="400"  src="assets/Beak2.jpeg">
 
 ## Week 7: Report 2
 Once we had an initial base for what we wanted the beak to look like, I moved into working on trying to make the proximity sensor and servo motor function together. I first made the RGB led function with the proximity sensor in order to more easily test out that my code was functioning correctly. I had it so that when proximity was between 80 and 20 the led would turn green, when proximity is closer than 20 it will turn red, or else it would turn blue. 
