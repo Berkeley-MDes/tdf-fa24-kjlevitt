@@ -1,3 +1,15 @@
+## Week 8 10/17/2024-10/24/2024
+## Week 8: Report 1
+This week I was focused on completing Project 2. At the beginning of this week, we had realized that we needed to integrate one more input sensor into our penguin. The idea that we came up with was in using the accelerometer in order to turn on an led when it is shook. This way we could implement the accelerometer into the hand of the penguin and when the user shakes his had, an LED will turn on. This was fairly straightforward and I was able to implement this using the accelerometer sensor and a singular LED. 
+
+Once we had this complete, I compiled all of the separate code into one system. This way our penguin would function by having the ultrasonic sensor to turn on the servo when a person is within the correct range and have the accelerometer to turn on the LED running on the same photon. 
+
+After I had this code running sucessfully for both of these sensors, we really wanted to utilize multiple LEDS to display a heart on the penguin instead of having just one. I first started out with trying to get the NeoPixel Featherwing that I had from another project to function with the photon. As there is no library supported for this on the photon it turned out to be quite difficult. I tried altering one of the libraries that is offered but this only caused the photon to turn on and spasm with random lighting no matter what code I gave to it. 
+
+As I could not get this to work, Kaylee had an LED dot matrix that she gave to me to try instead. I found a library for the photon that looked promising to make this work but no matter what I tried I could not get it to compile with the code that I had. Even using the example code that was offered within the library and going through the library myself to see the functions I could not figure out why this was not working. 
+
+With two different LED matrices not working I decided to give it one more try, using the DotStar Featherwing. I assembed this together as per the instructions that I was given and the dowloaded the example code that Jeff gave to me in order to run on it. 
+
 # Week 7 10/10/2024-10/17/2024
 ## Week 7: Report 1
 This week was lots of focus on working on project 2. We first worked together in order to come up with a idea for the project that we wanted to work on that fulfilled the requirements. Our idea consisted of two main components. a button that can be pressed remotly in order to trigger an led light to turn on and a model of a beak which would open when a person is close enough to the proximity sensor. 
