@@ -8,7 +8,9 @@ After I had this code running sucessfully for both of these sensors, we really w
 
 As I could not get this to work, Kaylee had an LED dot matrix that she gave to me to try instead. I found a library for the photon that looked promising to make this work but no matter what I tried I could not get it to compile with the code that I had. Even using the example code that was offered within the library and going through the library myself to see the functions I could not figure out why this was not working. 
 
-With two different LED matrices not working I decided to give it one more try, using the DotStar Featherwing. I assembed this together as per the instructions that I was given and the dowloaded the example code that Jeff gave to me in order to run on it. 
+With two different LED matrices not working I decided to give it one more try, using the DotStar Featherwing. I assembed this together as per the instructions that I was given and the dowloaded the example code that Jeff gave to me in order to run on it. Even with this I still could not even get it to turn on at all. So with this, I needed to give up on the LED matrix and we instead transitioned to having a OLED screen in the center of the penguin to show the message and heart and then having a regular LED to light up on the top of his head. 
+
+With putting the penguin together we ran into many more issues mostly around unreliability of the photons functioning. This was very frustrating but I am still proud of the product that we were able to come up with in the end. I would really like to try and get this project to a fully reliably functioning state in the future along with getting one of the three LED matrix boards that I now have to work with the photon.
 
 # Week 7 10/10/2024-10/17/2024
 ## Week 7: Report 1
