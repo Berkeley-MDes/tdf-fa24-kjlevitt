@@ -1,3 +1,9 @@
+## Week 9 10/24/2024-10/31/2024
+## Week 9: Report 1
+The first part of this week I was focused on writing the report for the second project. 
+
+Once this was complete, we moved into starting on project 3. In doing so, I started working through the tutorials for creating my agent.
+
 ## Week 8 10/17/2024-10/24/2024
 ## Week 8: Report 1
 This week I was focused on completing Project 2. At the beginning of this week, we had realized that we needed to integrate one more input sensor into our penguin. The idea that we came up with was in using the accelerometer in order to turn on an led when it is shook. This way we could implement the accelerometer into the hand of the penguin and when the user shakes his had, an LED will turn on. This was fairly straightforward and I was able to implement this using the accelerometer sensor and a singular LED. 
