@@ -2,7 +2,9 @@
 ## Week 9: Report 1
 The first part of this week I was focused on writing the report for the second project. 
 
-Once this was complete, we moved into starting on project 3. In doing so, I started working through the tutorials for creating my agent.
+Once this was complete, we moved into starting on project 3. In doing so, I started working through the tutorials for creating my agent. i do not have any pervious experience in building a LLM so this was a very new task for me. It took me a while to get through the tutorials as I kept running into diffefrent errors that would occur as I was trying to get my agent to work correctly. Eventually, I was able to get through all of them and have my agent working as intended.
+
+For the last tutorial, I ended up adding in both the content from my github and my resume in order for it to be more in-depth of its knowledge about me.
 
 ## Week 8 10/17/2024-10/24/2024
 ## Week 8: Report 1
