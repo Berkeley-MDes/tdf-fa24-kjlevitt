@@ -6,6 +6,8 @@ Once this was complete, we moved into starting on project 3. In doing so, I star
 
 For the last tutorial, I ended up adding in both the content from my github and my resume in order for it to be more in-depth of its knowledge about me.
 
+<img width="800"  src="assets/GPT_Experiment01.png">
+
 ## Week 8 10/17/2024-10/24/2024
 ## Week 8: Report 1
 This week I was focused on completing Project 2. At the beginning of this week, we had realized that we needed to integrate one more input sensor into our penguin. The idea that we came up with was in using the accelerometer in order to turn on an led when it is shook. This way we could implement the accelerometer into the hand of the penguin and when the user shakes his had, an LED will turn on. This was fairly straightforward and I was able to implement this using the accelerometer sensor and a singular LED. 
