@@ -1,3 +1,13 @@
+## Week 10 10/31/2024-11/07/2024
+## Week 10: Report 1
+This week I worked on extending the initial four tutorials into my own idea. My project was to create an LLM that could answer any questions about my senior design project, the Anti-Drowsy Driving Assistance system (ADDA). In order to do this, I needed to give the LLM information on my project. I decided to give it three sets of knowledge: our 78 page final deliverable report, the contents of a webpage that we had created in order to showcase our product, and all of the minutes that we had taken over the course of this ten month project (this was 64 days worth of minutes). With these three knoweldge sets I felt that it gave a comprehensive understanding to the system of both how our final product operated and the process we went through in order to get there. 
+
+Once I had setup the framework for my model and input in all of my data, I played around with adjusting the temperature and chuncks for each knowledge set until I was getting answers that I was satisfied with. I asked it questions like "What does the system do?" and "How does the alert method work?" and it was able to give me pretty good answers back.
+
+In working with it though, I did find some pitfalls in the LLM that I could not figure out how to fix. The first one being that it could not answer to who was involved in this project eventhough all nine of our names are explicitly listed multiple times throughout the three knowledge sets that I provided to it.
+
+I also found that it was not able to give proper answers or sometimes answers at all about information located in tables or charts. While it is able to parse plain text well this is a pitfall for analyzing things like my deliverable report for information.
+
 ## Week 9 10/24/2024-10/31/2024
 ## Week 9: Report 1
 The first part of this week I was focused on writing the report for the second project. 
