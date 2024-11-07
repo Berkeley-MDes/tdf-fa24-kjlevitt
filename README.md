@@ -10,7 +10,7 @@ Once I had setup the framework for my model and input in all of my data, I playe
 
 In working with it though, I did find some pitfalls in the LLM that I could not figure out how to fix. The first one being that it could not answer to who was involved in this project eventhough all nine of our names are explicitly listed multiple times throughout the three knowledge sets that I provided to it.
 
-<img width="400"  src="assets/Kiwi_name_prompt.png"> 
+<img width="400"  src="assets/Kiwi_name_prompt.png"> <img width="400"  src="assets/Kiwi_deliverable_front.png">
 
 I also found that it was not able to give proper answers or sometimes answers at all about information located in tables or charts. While it is able to parse plain text well this is a pitfall for analyzing things like my deliverable report for information.
 
