@@ -237,3 +237,4 @@ With the time that I spent on this model I am content with how it turned out. I 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
+- [Weekly Submission](https://docs.google.com/forms/d/e/1FAIpQLSewDzOzJZBlv70a4e1WoBsbwWCmCf5Hita4sCap24KXJ6EgyA/viewform)
