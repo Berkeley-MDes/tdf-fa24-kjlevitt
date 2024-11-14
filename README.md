@@ -1,3 +1,6 @@
+## Week 11 11/07/2024-11/14/2024
+## Week 11: Report 1
+
 ## Week 10 10/31/2024-11/07/2024
 ## Week 10: Report 1
 This week I worked on extending the initial four tutorials into my own idea. My project was to create an LLM that could answer any questions about my senior design project, the Anti-Drowsy Driving Assistance system (ADDA). Since the initial name of our team was "Project Kiwi" which stuck with us throughout the rest of the project, I decide to make my LLM respond as a Kiwi bird named Adda who talks to you in a New Zealand accent. In order to do this, I needed to give the LLM information on my project. I decided to give it three sets of knowledge: our 78 page final deliverable report, the contents of a webpage that we had created in order to showcase our product, and all of the minutes that we had taken over the course of this ten month project (this was 64 days worth of minutes). With these three knoweldge sets I felt that it gave a comprehensive understanding to the system of both how our final product operated and the process we went through in order to get there. 
