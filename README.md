@@ -10,6 +10,7 @@ For our interaction piece we will utilize proximity and heart rate sensors in or
 
 Example work of Daniel Rozin
 
+<img width="600"  src="assets/Project4Inspo.png">
 
 As we have started thinking about how to execute this, I anticipate that the main problem we may run into it in providing enough amperage to power all 16 of our servos. In beginning to do some baseline calculations and research we have found that we anticipate needing at least 10 amps in order to power all of the servos appropriatly. Our initial idea is to utilize a variable power supply in order to provide this. 
 
