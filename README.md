@@ -1,8 +1,17 @@
 ## Week 12 11/14/2024-11/21/2024
 ## Week 12: Report 1
-This week I worked on creating a proposal for the final project. Since I had previously identified that I would be working in a group with Sylvie and Roopa, we had a broad idea of the compoents we had to work with and what we would like to do with them. We had previously discussed using a matrix of servos in order to create an interactive art piece that would utilize sensors in order for the user to manipulate its outputs. From this we all created our own idea of how this would function in our proposals. During the pin-up session, we discussed each of our ideas and decided on using mirrors to be rotated by the servos. For our interaction piece we will utilize proximity and heart rate sensors in order which will create movement patterns based on the inputs by the user. 
+This week I worked on creating a proposal for the final project. Since I had previously identified that I would be working in a group with Sylvie and Roopa, we had a broad idea of the compoents we had to work with and what we would like to do with them. We had previously discussed using a matrix of servos in order to create an interactive art piece that would utilize sensors in order for the user to manipulate its outputs. From this we all created our own idea of how this would function in our proposals. During the pin-up session, we discussed each of our ideas and decided on using mirrors to be rotated by the servos. 
 
-As we have started thinking about how to execute this, I anticipate that the main problem we may run into it in providing enough amperage to power all 16 of our servos. In beginning to do some baseline calculations and research we have found that we anticipate needing at least 10 amps in order to power all of the servos appropriatly.
+Pin-up proposal
+
+<img width="600"  src="assets/Project4PinUp.png">
+
+For our interaction piece we will utilize proximity and heart rate sensors in order which will create movement patterns based on the inputs by the user. The idea for our project is inspired by the work of Daniel Rozin, whos work we all found particularly interesting and has many pieces utilizing various different mirror material being manipulated by electronics.
+
+Example work of Daniel Rozin
+
+
+As we have started thinking about how to execute this, I anticipate that the main problem we may run into it in providing enough amperage to power all 16 of our servos. In beginning to do some baseline calculations and research we have found that we anticipate needing at least 10 amps in order to power all of the servos appropriatly. Our initial idea is to utilize a variable power supply in order to provide this. 
 
 ## Week 11 11/07/2024-11/14/2024
 ## Week 11: Report 1
