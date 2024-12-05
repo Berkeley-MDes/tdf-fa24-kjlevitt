@@ -1,6 +1,6 @@
 ## Week 12 11/14/2024-11/21/2024
 ## Week 12: Report 1
-This week I worked on creating a proposal for the final project. Since I had previously identified that I would be working in a group with Sylvie and Roopa, we had a broad idea of the compoents we had to work with and what we would like to do with them. We had previously discussed using a matrix of servos in order to create an interactive art piece that would utilize sensors in order for the user to manipulate its outputs. From this we all created our own idea of how this would function in our proposals. During the pin-up session, we discussed each of our ideas and decided on using mirrors to be rotated by the servos. 
+This week I worked on creating a proposal for the final project. Since I had previously identified that I would be working in a group with Sylvie and Roopa, we had a broad idea of the compoents we had to work with and what we would like to do with them. We had previously discussed using a matrix of servos in order to create an interactive art piece that would utilize sensors in order for the user to manipulate its outputs. From this we all created our own idea of how this would function in our proposals. During the pin-up session, we discussed each of our ideas and decided on using mirrors to be rotated by the servos.
 
 Pin-up proposal
 
