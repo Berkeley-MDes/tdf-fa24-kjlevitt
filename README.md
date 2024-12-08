@@ -1,7 +1,7 @@
 ## Week 14 11/28/2024-12/5/2024
 With the fabrication of the tiles completed, we moved on to trying to figure out how we would like all of the tiles to be displayed together. We knew that we would like them to be positioned in a grid pattern but were not sure exactly how to do this with the positioning of the tiles on the servos themselves. It took me a while to come up with a good design for this. Eventually I came up with the idea of creating shelves that would have cutouts the exact size of the servos in order to keep them in place when they are rotating. These shelves would have to be positioned far enough away from the front so that the arms connecting the servo to the tile would sit flush with the front of the box, hold the servo at the correct height so that the tile is in the correct place in the grid, and allow for enough clerance on all sides for it to rotate properly. When I had an overall design completed for this, I then was tasked with figuring out how all of these pieces would be able to fit together properly so that we could laser cut all of the boxes in the most efficient manner. Most of our connections ended up being through adding mortise and tennon-esque joints. 
 
-<img width="400"  src="assets/Fusion grid front.jpeg"> <img width="400"  src="assets/Fusion grid back.jpeg">
+<img width="400"  src="assets/Fusion Grid Front.png"> <img width="400"  src="assets/Fusion Grid Back.png">
 
 Fusion model of the enclosure
 
