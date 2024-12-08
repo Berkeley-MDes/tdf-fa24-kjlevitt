@@ -4,9 +4,16 @@ With the fabrication of the tiles completed, we moved on to trying to figure out
 ## Week 13 11/21/2024-11/28/2024
 This week we started out by figuring out how to get the right power in order to have all sixteen of our servos rotating properly. We determined that it is necessary for us to have 5 volts running to our system but needed to supply approximatly 0.5 amps per servo that we wanted to use. Thus we decided that the best way to accpmplish this is to have a power supply running from a wall outlet that gives us 5 volts and 10 amps to our system. With the correct power we began testing out the servos to make sure that we could have them all functioning at the same time. We quickly found that even with the increased amperage all of the servos could not rotate simultaneously but when we had them operating in a wave motion they worked properly.
 
+https://github.com/user-attachments/assets/db21dcaf-c05e-4057-b344-9306516fe7c7
+
 With the servos operational we moved onto adding in the proximity sensor. This will be used so that the servos will be stationary when the person is far away and as they approach our installation the servos will begin to move in different patterns. Our original idea was to use three different proximity sensors so that it would be able to see which part of the display they were standing in front of. In order to use more than one of the proximity sensors, we needed to switch to using the PIR motion detector instead. Since this sensor can see for a much longer distance than the other sensors, I also worked on implementing a potentiometer with the servo so that we could adjust the sensitivity and distance that the sensor can read.
 
+https://github.com/user-attachments/assets/354a1e0f-f01f-472f-ae5d-aaf99f428427
+
+
 In addition to working with the motion sensor and servos, I was also helping to assist Roopa with the creation of the rotation of the tiles. We were having a hard time figuring out how to get them to have the motion that we wanted in a easy to print way. I had thought of an idea of being able to utilize screws as the axle points for the rotation of the arms with the servo and the tile and Roopa was then able to implement this into her design and fabricate all of the tiles.
+
+https://github.com/user-attachments/assets/21388f41-ff66-452e-8502-b2bc145d1e9b
 
 ## Week 12 11/14/2024-11/21/2024
 ## Week 12: Report 1
