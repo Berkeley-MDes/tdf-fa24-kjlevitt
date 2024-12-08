@@ -18,14 +18,19 @@ This week we started out by figuring out how to get the right power in order to 
 
 https://github.com/user-attachments/assets/db21dcaf-c05e-4057-b344-9306516fe7c7
 
+Lining up all of the servos so that we can see that each of them is working with the power supply
+
 With the servos operational we moved onto adding in the proximity sensor. This will be used so that the servos will be stationary when the person is far away and as they approach our installation the servos will begin to move in different patterns. Our original idea was to use three different proximity sensors so that it would be able to see which part of the display they were standing in front of. In order to use more than one of the proximity sensors, we needed to switch to using the PIR motion detector instead. Since this sensor can see for a much longer distance than the other sensors, I also worked on implementing a potentiometer with the servo so that we could adjust the sensitivity and distance that the sensor can read.
 
 https://github.com/user-attachments/assets/354a1e0f-f01f-472f-ae5d-aaf99f428427
 
+Testing the distance away that the potentiometer will still be able to read at
 
 In addition to working with the motion sensor and servos, I was also helping to assist Roopa with the creation of the rotation of the tiles. We were having a hard time figuring out how to get them to have the motion that we wanted in a easy to print way. I had thought of an idea of being able to utilize screws as the axle points for the rotation of the arms with the servo and the tile and Roopa was then able to implement this into her design and fabricate all of the tiles.
 
 https://github.com/user-attachments/assets/21388f41-ff66-452e-8502-b2bc145d1e9b
+
+Testing the functionality of the tile moving
 
 ## Week 12 11/14/2024-11/21/2024
 ## Week 12: Report 1
