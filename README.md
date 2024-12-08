@@ -1,6 +1,12 @@
 ## Week 14 11/28/2024-12/5/2024
 With the fabrication of the tiles completed, we moved on to trying to figure out how we would like all of the tiles to be displayed together. We knew that we would like them to be positioned in a grid pattern but were not sure exactly how to do this with the positioning of the tiles on the servos themselves. It took me a while to come up with a good design for this. Eventually I came up with the idea of creating shelves that would have cutouts the exact size of the servos in order to keep them in place when they are rotating. These shelves would have to be positioned far enough away from the front so that the arms connecting the servo to the tile would sit flush with the front of the box, hold the servo at the correct height so that the tile is in the correct place in the grid, and allow for enough clerance on all sides for it to rotate properly. When I had an overall design completed for this, I then was tasked with figuring out how all of these pieces would be able to fit together properly so that we could laser cut all of the boxes in the most efficient manner. Most of our connections ended up being through adding mortise and tennon-esque joints. 
 
+<img width="600"  src="assets/Fusion grid front.jpeg"> <img width="600"  src="assets/Fusion grid back.jpeg">
+
+<img width="600"  src="assets/Cardboard grid.jpeg"> 
+
+<img width="600"  src="assets/Wooden grid.jpeg">
+
 ## Week 13 11/21/2024-11/28/2024
 This week we started out by figuring out how to get the right power in order to have all sixteen of our servos rotating properly. We determined that it is necessary for us to have 5 volts running to our system but needed to supply approximatly 0.5 amps per servo that we wanted to use. Thus we decided that the best way to accpmplish this is to have a power supply running from a wall outlet that gives us 5 volts and 10 amps to our system. With the correct power we began testing out the servos to make sure that we could have them all functioning at the same time. We quickly found that even with the increased amperage all of the servos could not rotate simultaneously but when we had them operating in a wave motion they worked properly.
 
